@@ -1,11 +1,8 @@
-<h1>Hi, I'm Austin! <br/>
-<a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/?msc=main-nav">Full Time CyberSecurity Undergrad @SANS.edu</a></h1>
+<h1>Handy Tutorials</h1>
 
-<h2>👨‍💻 Programming + Scripting:</h2>
+<h2>👨‍💻 Databases:</h2>
 
-- <b>What I've Done:</b>
-  - [Python @UVU.edu](https://github.com/vp0331/INFO1200-Assignments)
-  - [Python + C @SANS.edu](https://github.com/ajordan-cyber/GFACTprojects)
-- <b>Goals:</b>
-  - [Example 1](https://github.com/vp0331/INFO1200-Assignments)
-  - [Example 2](https://github.com/ajordan-cyber/GFACTprojects)
+- <b>MariaDB:</b>
+  - [Install MariaDB on Ubuntu](https://docs.google.com/document/d/1LoGm3AOQf2DZ8tAkA8wGMcmJDBScspFCKgIGc4ALNMU/edit?usp=sharing)
+  - [Create an Admin User](https://docs.google.com/document/d/1howhyi_JhW2Q_GCaUkX0wM29hzGK1t5zEivvL--9NM8/edit?usp=sharing)
+  - [Import a Sample Database](https://docs.google.com/document/d/1iwoHejJz00_WaZdFjw3CnOtJEFOIWylSKXSobxs8mrw/edit?usp=sharing)
